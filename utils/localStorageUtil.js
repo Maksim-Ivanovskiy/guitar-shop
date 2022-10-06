@@ -34,5 +34,3 @@ class LocalStorageUtil {
 
 const localStorageUtil = new LocalStorageUtil();
 
-localStorageUtil.putProducts('el1');
-localStorageUtil.putProducts('el2');
